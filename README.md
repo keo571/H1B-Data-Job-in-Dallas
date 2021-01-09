@@ -22,5 +22,5 @@ The H-1B visa is a work permit that allows foreign workers to go to the United S
 ## Visualization
 ### Base Salaries Change over Time in Dallas Market 
 ![alt text](https://github.com/keo571/H1B-Data-Job-in-Dallas/blob/main/viz1.png?raw=true)
-### Median Base Salaries across 5 Cities 
+### Median Base Salaries across Austin, Dallas, Houston, New York and San Francisco
 ![alt text](https://github.com/keo571/H1B-Data-Job-in-Dallas/blob/main/viz2.png?raw=true)
